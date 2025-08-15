@@ -1,13 +1,13 @@
-Hi 👋 My name is Dmitry
+Привет, я Дмитрий 👋
 =======================
 
-Java Backend Developer
+Начинающий **Java Backend-разработчик**  
 ----------------------
 
-* 🧠  I'm learning Algorithms and Data Structures
+*  Изучаю алгоритмы и структуры данных
+*  Работаю над pet-проектами
 
-### Skills
-
+### Технологии:
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?logo=intellij-idea&logoColor=white)
@@ -24,7 +24,11 @@ Java Backend Developer
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
 ![Thymeleaf](https://img.shields.io/badge/Thymeleaf-007DAD?logo=thymeleaf&logoColor=white)
 
+### 📊 Активность на GitHub:
+![](https://github-readme-stats.vercel.app/api?username=dmv04&show_icons=true&theme=white)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=dmv04&layout=compact&theme=white)
 
-### Socials
+### 🌐 Связь:
 
-<p align="left"> <a href="https://www.github.com/dmv04" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a></p>
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?logo=telegram&logoColor=white)](https://t.me/DmitryV04)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:verchenko.d.s@mail.ru)
